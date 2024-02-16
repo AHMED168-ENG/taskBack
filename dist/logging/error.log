@@ -1,0 +1,1 @@
+{"level":"error","message":"No write concern mode named 'majority/test' found in replica set configuration","timestamp":"2024-02-16T19:09:51.486Z"}
